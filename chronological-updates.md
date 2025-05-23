@@ -34,10 +34,7 @@ Keep this running in it's own terminal, and use the endpoint it gives you. To ki
 ### Using `ganache-cli` from the command line.
 Or, optionally, you can install `ganache-cli` [as this user did](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/39#discussioncomment-2854165).
 
-```
-yarn global add ganache-cli
-ganache-cli
-```
+
 
 Keep this running in it's own terminal, and use the endpoint it gives you. To kill it, press `CTRL` + `C`.
 
