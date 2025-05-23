@@ -25,10 +25,7 @@ You can also try to edit it by:
 
 ### Using `ganache`
 
-```
-yarn global add ganache
-ganache
-```
+
 
 Keep this running in it's own terminal, and use the endpoint it gives you. To kill it, press `CTRL` + `C`.
 
