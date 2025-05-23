@@ -6,7 +6,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
 2. Make sure your answer unblocks the user
 3. Remember, this is living documentation!
 4. Format your answers, like in the `how-to-ask-a-question` guide. 
-
+###Hello!###
 
 # 1. Make sure the question follows the "how-to-ask-a-good-question" guide
 
