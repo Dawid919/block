@@ -19,7 +19,7 @@ Here are the steps to ask a well-formatted question:
 5. Make sure you format code using backticks (```) and a language tag
 6. Make sure you copy paste your code instead of using screenshots
 7. Make sure your code is a minimal example
-
+###Hello!###
 
 # 1. Search to see if the question has already been asked
 
